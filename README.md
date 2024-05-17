@@ -329,6 +329,9 @@
 
 7. **C++ Bindings**:
    - Facilitates interactions between JavaScript and underlying system resources for enhanced performance.
+
+
+<img src="Readme_Image/Node js architecture.png">
   
 
   **[⬆ Back to Top](#table-of-contents)**
